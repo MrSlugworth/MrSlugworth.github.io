@@ -24,6 +24,7 @@ Now from Stewart and Sun's *Matrix Perturbation*, p. 192, we have the following 
 $$
 \text{sv}_A(\tilde{A})\le \|E\|_2,
 $$
+
 where 
 
 $$\text{sv}_A(\tilde{A}):=\max_i \min_j \left|\tilde{\lambda}_i-\lambda_j \right|. $$
