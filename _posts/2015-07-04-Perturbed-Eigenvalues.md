@@ -1,6 +1,6 @@
 ---
-layout: Some Notes About Matrix Perturbation
-title: First Post
+layout: post
+title: Some Notes About Matrix Perturbation
 ---
 
 In this post we list some facts about the behavior of the eigenvalues of matrices when those matrices are perturbed.
