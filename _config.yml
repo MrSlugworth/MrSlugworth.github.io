@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Cool Stuff
-tagline:             The Jekyll Butler
+tagline:             super cool
 url:                 http://mrslugworth.github.io/
 paginate:            1
 baseurl:             ""
