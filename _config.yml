@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
+title:               Cool Stuff
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://mrslugworth.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -17,6 +17,11 @@ baseurl:             ""
 sass:
   sass_dir:          _sass
   style:            :compressed
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
 
 # About/contact
 author:
