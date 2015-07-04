@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Some Notes About Matrix Perturbation
 title: First Post
 ---
 
@@ -16,6 +16,18 @@ $$ \lambda_{max}(A^TA)=\frac{x^T\lambda_{max}x}{x^Tx}=\frac{x^TA^TAx}{x^Tx}=\max
 where $$\|\cdot \|_2$$ is the standard $$L^2$$-norm.
 
 Now note that if our matrix $$A$$ is symmetric then $$\|A\|_2$$ is equal to the maximum of its eigenvalues. To see this note that if $$\{v_1,...,v_n\}$$ is an orthogonal eigenbasis for $$A$$, which exists by the theorem, then $$A(c_1v_1+c_nv_n)$$ will be maximized when all of the $$c_i$$ are $$0$$ except for those at the maximum eigenvalue. 
+
+Now from Stewart and Sun's *Matrix Perturbation*, p. 192, we have the following theorem:
+
+**Theorem:** If $$A$$ is a normal matrix and $$\tilde{A}=A+E$$, then 
+
+$$
+\text{sv}_A(\tilde{A})\le \|E\|_2,
+$$
+where 
+
+$$\text{sv}_A(\tilde{A}):=\max_i \min_j \left|\tilde{\lambda}_i-\lambda_j \right|. $$
+
 
 [Wikipedia: Eigenvalue Perturbation](https://en.wikipedia.org/wiki/Eigenvalue_perturbation)
 
