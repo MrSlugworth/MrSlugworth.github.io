@@ -3,12 +3,14 @@ layout: post
 title: Some Stuff about Random Matrices
 ---
 
-**Theorem** 
+ 
 
 ----------------------- ------------------------------------
-asdfasdfasdfasdfasdfsdf \ Table multiline text bla bla bla bla
-                        bla bla bla bla bla bla bla ... the
-                        blank line below is important 
+**Theorem** 
+I bet you'd like more information about this sentence [^1].
+
+[^1]: Well lucky for you, I've included more information in footnote form.
+
 
 ----------------------------------------------------------------
 
