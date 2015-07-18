@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Rational Root Theorem
 title: CA 6.1
 date: 2015-07-13 21:53:00 +04:00
 ---
