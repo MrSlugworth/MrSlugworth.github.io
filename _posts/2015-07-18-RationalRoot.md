@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rational Root Theorem
-date: 2015-07-13 21:53:00 +04:00
+date: 2015-07-18 21:53:00 +04:00
 ---
 
 The Rational Root Theorem
