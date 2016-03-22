@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-This is my blog. It is really more of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book). 
-</p>
 
 This is my blog. It is really more of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book). 
 
