@@ -23,8 +23,14 @@ Fleer - To make a wry face in contempt, or to grin in scorn; to deride; to sneer
 
 [Fritillaries](https://en.wikipedia.org/wiki/Fritillaria) I'm not sure which kind Lang is referring to.
 
-"Study to be Quiet" - The KJV version of (Thessalonians 4:11)[http://biblehub.com/1_thessalonians/4-11.htm]
+"Study to be Quiet" - The KJV version of [Thessalonians 4:11](http://biblehub.com/1_thessalonians/4-11.htm)
 
+Dun - n. A newly hatched, immature mayfly.
+
+Sniggle - To fish for eels by thrusting the baited hook into their holes or hiding places.
+
+fingerling - 
+    n. A young or small fish, especially a young salmon or trout.
 
 
 
