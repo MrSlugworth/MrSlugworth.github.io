@@ -21,6 +21,11 @@ Fleer - To make a wry face in contempt, or to grin in scorn; to deride; to sneer
 
 *Pickerel Weed* - [link](https://en.wikipedia.org/wiki/Pontederia_cordata)
 
+[Fritillaries](https://en.wikipedia.org/wiki/Fritillaria) I'm not sure which kind Lang is referring to.
+
+"Study to be Quiet" - The KJV version of (Thessalonians 4:11)[http://biblehub.com/1_thessalonians/4-11.htm]
+
+
 
 
 
